@@ -5,8 +5,7 @@ Skeleton code for a project using cmake for building, gtest for testing, and gco
 
 This is meant to be a starting point for projects written in C/C++. It
 provides a directory structure and CMakeLists.txt files that set up some
-targets for testing with gtest and coverage checking with gcov. It is far
-from complete. It took way too long to figure out how to integrate cmake,
+targets for testing with gtest and coverage checking with gcov. It took way too long to figure out how to integrate cmake,
 gtest, and gcov together, so creating a skeleton project for future use
 seemed like a good idea. 
 
